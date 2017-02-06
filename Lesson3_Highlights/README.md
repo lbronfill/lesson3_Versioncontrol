@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 05, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Liria Bronfill)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+( To be able to create or connect our cloud 9 account to Git account so we have a repository that we can use..)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. ( How to create a new local repository by using the Git init command.)
+2. (The Git push commans uploads all local branches to commits to the remote repository.)
+3. (There are three main status that users files can reside in committed,modified and staged.)
